@@ -23,7 +23,7 @@
 | Contributor | Github | Portfolio |
 | --- | --- | --- |
 | Kevin James Dilem | [kevinjamesdilem](https://github.com/kevinjamesdilem) | [kevinjd.github.io](https://kevinjd.github.io/) |
-| Chester Daniel Farinas | [cfarinas024](https://github.com/cfarinas024) | [kevinjd.github.io](https://cfarinas024.github.io/) |
+| Chester Daniel Farinas | [cfarinas024](https://github.com/cfarinas024) | [cfarinas024.github.io](https://cfarinas024.github.io/) |
 
 
 ### Purpose
