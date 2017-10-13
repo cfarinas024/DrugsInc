@@ -23,8 +23,7 @@
 | Contributor | Github | Portfolio |
 | --- | --- | --- |
 | Kevin James Dilem | [kevinjamesdilem](https://github.com/kevinjamesdilem) | [kevinjd.github.io](https://kevinjd.github.io/) |
-| Chester Daniel Farinas | [cfarinas024](https://github.com/cfarinas024) | [kevinjd.github.io](https://kevinjd.github.io/) |
-| Chester Daniel Farinas | [chester](https://github.com/kevinjamesdilem) | [kevinjd.github.io](https://kevinjd.github.io/) |
+| Chester Daniel Farinas | [cfarinas024](https://github.com/cfarinas024) | [kevinjd.github.io](https://cfarinas024.github.io/) |
 
 
 ### Purpose
@@ -58,8 +57,10 @@ I. Building the App
 II. Communication
 
 - Slack <br/>
-![slack](img/slack.png)
+
+![slack](img/slack1.png)
 ![slack](img/slack2.png)
+![slack](img/slack.png)
 ![slack](img/slack3.png)
 
 ### Usage
